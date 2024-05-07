@@ -1,0 +1,7 @@
+C:\Users\Prave\source\repos\Genrics\Genrics\bin\Debug\Genrics.exe.config
+C:\Users\Prave\source\repos\Genrics\Genrics\bin\Debug\Genrics.exe
+C:\Users\Prave\source\repos\Genrics\Genrics\bin\Debug\Genrics.pdb
+C:\Users\Prave\source\repos\Genrics\Genrics\obj\Debug\R1.csproj.AssemblyReference.cache
+C:\Users\Prave\source\repos\Genrics\Genrics\obj\Debug\R1.csproj.CoreCompileInputs.cache
+C:\Users\Prave\source\repos\Genrics\Genrics\obj\Debug\Genrics.exe
+C:\Users\Prave\source\repos\Genrics\Genrics\obj\Debug\Genrics.pdb
